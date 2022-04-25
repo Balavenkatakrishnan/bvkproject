@@ -1,0 +1,25 @@
+{
+  "name": "projectbvk",
+  "version": "1.0.0",
+  "description": "Attendance monitoring Framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Balu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "consolidate": "^0.16.0",
+    "ejs": "^3.1.6",
+    "engine": "^1.0.0",
+    "express": "^4.17.3",
+    "html": "^1.0.0",
+    "lodash": "^4.17.21",
+    "pg": "^8.7.3",
+    "pg-promise": "^10.11.1",
+    "swig": "^1.4.2",
+    "view": "^1.1.1"
+  }
+}
