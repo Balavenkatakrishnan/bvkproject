@@ -21,7 +21,7 @@ const pgp = require('pg-promise')({
 
   
 const config = {
-    connectionString: 'postgres://wckapwayphfldu:2b0e2347333324399ee1a400bcb671fa924b12a9d038b8b58666a9bf26295ae1@ec2-3-209-124-113.compute-1.amazonaws.com:5432/dcbj4p4r8g50vq',
+    connectionString: 'postgres://vdiukcfnzcvrlh:962273636ecda28f2819febb95fc4a305ee0a52d91078a9de9fb17a77533373f@ec2-54-80-122-11.compute-1.amazonaws.com:5432/dfmgsfs1kbju0e',
   max: 30,
  ssl: {
     rejectUnauthorized: false,
